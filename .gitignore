@@ -8,7 +8,7 @@
 !*.c
 !*.cpp
 # Allow this .gitignore file itself
-!.gitignore
+#!.gitignore
 
 # Explicitly ignore common build/output files
 *.exe
